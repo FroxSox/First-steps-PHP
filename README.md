@@ -1,2 +1,2 @@
 Hi I m Laurin,
-This is my first Project of Programming so far.
+This is our first Project of Programming so far.
